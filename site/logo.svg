@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Qaytar">
+  <path d="M32 5 53 13v17c0 13.5-9 23.5-21 29C20 53.5 11 43.5 11 30V13Z" fill="#fff" stroke="#0b4f9e" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="25" cy="24" r="4.2" fill="none" stroke="#0b4f9e" stroke-width="3.4"/>
+  <circle cx="39" cy="38" r="4.2" fill="none" stroke="#0b4f9e" stroke-width="3.4"/>
+  <path d="M40 20 24 42" stroke="#0b4f9e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M5 38c6 17 33 19 49-4" fill="none" stroke="#1fab4b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M47 29.5 61 27l-4.5 13.5Z" fill="#1fab4b"/>
+</svg>
